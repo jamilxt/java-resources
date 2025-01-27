@@ -1,4 +1,4 @@
-# java-resources
+# Java & Spring Boot Resources
 
 **Resources mentioned in the session:**
 - https://youtu.be/qMsLA7-_sB8
