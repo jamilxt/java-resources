@@ -1,6 +1,7 @@
 # java-resources
 
 **Resources mentioned in the session:**
+
 **TIOBE Index for January 2025**
 - https://www.tiobe.com/tiobe-index/
 
@@ -52,7 +53,7 @@ public class Main {
 }
 ```
 
-**Command: **
+**Command:**
 - `javac Main.java`  (Compile)
 - `java Main` (Run)
 - `javap -c Main` (Read Byte Code)
@@ -67,7 +68,7 @@ Kindly share your takeaways from my session. Thank you all for your participatio
 
 ---
 
-Other Java Resources:
+## Other Java Resources:
 ### 📚 **Blogs & Websites**
 
 - [Java Magazine - Oracle](https://blogs.oracle.com/javamagazine/)
@@ -106,7 +107,7 @@ Other Java Resources:
 - Follow **Java Champions & Developers** on LinkedIn & Twitter.
 - Join [JUGBD - Bangladeshi Java User Group](https://www.facebook.com/groups/jugbd/) on Facebook.
 
-**🎓 Extra Learning Resources**
+### 🎓 **Extra Learning Resources**
 
 - [Demystifying Spring Internals - SpringOne Session](https://springone.io/sessions/demystifying-spring-internals)
 - [Marco Behler's Guides - Spring Framework](https://www.marcobehler.com/guides/spring-framework)
