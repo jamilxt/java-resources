@@ -1,7 +1,6 @@
 # java-resources
 
-**Resources mentioned in the session:
-**
+**Resources mentioned in the session:**
 **TIOBE Index for January 2025**
 - https://www.tiobe.com/tiobe-index/
 
