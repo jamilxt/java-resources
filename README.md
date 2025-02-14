@@ -61,7 +61,7 @@
 - [YouTube Channel - Debug Agent](https://youtube.com/@debugagent)
 
 ---
-Session Resources:
+## Session Resources:
 **Resources mentioned in my session on Intro to Java:**
 - https://youtu.be/qMsLA7-_sB8
 
